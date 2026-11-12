@@ -1,0 +1,7 @@
+title: Edgedancer Labs
+description: Privacy policies and support documents for apps by edgedancerlabs
+theme: jekyll-theme-primer
+lang: en
+exclude:
+  - README.md
+  - LICENSE
