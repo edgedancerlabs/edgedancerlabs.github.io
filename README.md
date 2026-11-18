@@ -12,10 +12,10 @@ The documents are published as web pages at **https://edgedancerlabs.github.io/*
 
 ## Apps
 
-| App          | Privacy Policy | Account Deletion |
-|--------------|----------------|------------------|
-| Nexus Fusion | [Link](https://edgedancerlabs.github.io/apps/nexus-fusion/privacy-policy) | – (no accounts) |
-| Deuterium    | [Link](https://edgedancerlabs.github.io/apps/deuterium/privacy-policy) | [Link](https://edgedancerlabs.github.io/apps/deuterium/account-deletion) |
+| App          | Privacy Policy | Account / Data Deletion |
+|--------------|----------------|-------------------------|
+| Nexus Fusion | [Link](https://edgedancerlabs.github.io/apps/nexus-fusion/privacy-policy) | [Data deletion](https://edgedancerlabs.github.io/apps/nexus-fusion/data-deletion) (no accounts) |
+| Deuterium    | [Link](https://edgedancerlabs.github.io/apps/deuterium/privacy-policy) | [Account deletion](https://edgedancerlabs.github.io/apps/deuterium/account-deletion) |
 
 Each document contains an English and a German version.
 
@@ -25,6 +25,7 @@ Each document contains an English and a German version.
 apps/<app-name>/index.md            overview page for the app
 apps/<app-name>/privacy-policy.md   privacy policy
 apps/<app-name>/account-deletion.md how to delete an account (only for apps with accounts)
+apps/<app-name>/data-deletion.md    how to delete the app's data (apps without accounts)
 _templates/                         starting points for new apps (not published)
 _config.yml                         GitHub Pages settings
 ```
